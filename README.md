@@ -1,4 +1,5 @@
 # Multiplexer Lab
+**To run code, open .xpr file.**
 
 ### Decoder
 Verilog Code for running following 3x8 Decoder logic circuit. 
