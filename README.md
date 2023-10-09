@@ -7,4 +7,6 @@ Designed and built 4x1 multiplexer in Verilog.
 ## BCD-to-7Segement LED Display Lab
 Designed BCD-to-7segment decoder on Basys FPGA using Verliog to simulate counting.
 
+**Run .xpr file upon downloading code.**
+
 
