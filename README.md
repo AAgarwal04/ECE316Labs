@@ -8,9 +8,11 @@ Verilog Code for running following 3x8 Decoder logic circuit.
 <sub>Circuit and overall code structure provided by Dr. Jaydeep Kulkarni.</sub>
 
 ### Multiplexer
-4x1 multiplexer designed to control data flow. Logic circuit uses following truth table:
+The 4x1 multiplexer is designed to control data flow. The logic circuit uses following truth table:
+
 ![image](https://github.com/AAgarwal04/ECE316Labs/assets/121470779/7b43ca43-1292-42ad-9cb2-d87997ffe1f3) <br>
-Results in following circuit being simulated in Verilog: <br>
+This results in following circuit being simulated in Verilog: <br>
+
 ![image](https://github.com/AAgarwal04/ECE316Labs/assets/121470779/5bb0bb72-db35-4c36-b577-8fdaa8495521)
 
 
