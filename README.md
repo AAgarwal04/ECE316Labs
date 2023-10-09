@@ -1,5 +1,6 @@
 # FPGA Labs
-**FPGA Labs for ECE 316 Fall 2023.**
+**FPGA Labs for ECE 316 Fall 2023.** <br>
+
 Labs are run on Basys3 Board.
 ## Multiplexer Lab
 Using Verilog, built Sprinkler Valve system using Decoder.
