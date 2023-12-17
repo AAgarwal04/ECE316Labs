@@ -1,0 +1,14 @@
+0.7
+2020.2
+Jun 16 2023
+19:55:58
+C:/Users/Aryan/OneDrive/Desktop/ECE 316/Lab4/Lab4.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+C:/Users/Aryan/OneDrive/Desktop/ECE 316/Lab4/Lab4.srcs/sim_1/new/tb_flight_attendant_call_system.v,1697690602,verilog,,C:/Users/Aryan/OneDrive/Desktop/ECE 316/Lab4/Lab4.srcs/sim_1/new/tb_rising_edge_detector.v,,tb_flight_attendant_call_system,,,,,,,,
+C:/Users/Aryan/OneDrive/Desktop/ECE 316/Lab4/Lab4.srcs/sim_1/new/tb_rising_edge_detector.v,1697761729,verilog,,C:/Users/Aryan/OneDrive/Desktop/ECE 316/Lab4/Lab4.srcs/sim_1/new/tb_time_mux_state.v,,tb_rising_edge_detector,,,,,,,,
+C:/Users/Aryan/OneDrive/Desktop/ECE 316/Lab4/Lab4.srcs/sim_1/new/tb_time_mux_state.v,1697838901,verilog,,C:/Users/Aryan/OneDrive/Desktop/ECE 316/Lab4/Lab4.srcs/sources_1/new/time_multiplexing_main.v,,tb_time_multiplexing_main,,,,,,,,
+C:/Users/Aryan/OneDrive/Desktop/ECE 316/Lab4/Lab4.srcs/sources_1/new/clkdiv.v,1697841147,verilog,,C:/Users/Aryan/OneDrive/Desktop/ECE 316/Lab4/Lab4.srcs/sources_1/new/flight_attendant_call_system.v,,clkdiv,,,,,,,,
+C:/Users/Aryan/OneDrive/Desktop/ECE 316/Lab4/Lab4.srcs/sources_1/new/flight_attendant_call_system.v,1697747727,verilog,,C:/Users/Aryan/OneDrive/Desktop/ECE 316/Lab4/Lab4.srcs/sources_1/new/hexto7segment.v,,flight_attendant_call_system,,,,,,,,
+C:/Users/Aryan/OneDrive/Desktop/ECE 316/Lab4/Lab4.srcs/sources_1/new/hexto7segment.v,1697841121,verilog,,C:/Users/Aryan/OneDrive/Desktop/ECE 316/Lab4/Lab4.srcs/sources_1/new/rising_edge_detector.v,,hexto7segment,,,,,,,,
+C:/Users/Aryan/OneDrive/Desktop/ECE 316/Lab4/Lab4.srcs/sources_1/new/rising_edge_detector.v,1697761709,verilog,,C:/Users/Aryan/OneDrive/Desktop/ECE 316/Lab4/Lab4.srcs/sim_1/new/tb_flight_attendant_call_system.v,,rising_edge_detector,,,,,,,,
+C:/Users/Aryan/OneDrive/Desktop/ECE 316/Lab4/Lab4.srcs/sources_1/new/time_multiplexing_main.v,1697839141,verilog,,C:/Users/Aryan/OneDrive/Desktop/ECE 316/Lab4/Lab4.srcs/sources_1/new/time_mux_state_machine.v,,time_multiplexing_main,,,,,,,,
+C:/Users/Aryan/OneDrive/Desktop/ECE 316/Lab4/Lab4.srcs/sources_1/new/time_mux_state_machine.v,1697835358,verilog,,C:/Users/Aryan/OneDrive/Desktop/ECE 316/Lab4/Lab4.srcs/sim_1/new/tb_time_mux_state.v,,time_mux_state_machine,,,,,,,,
