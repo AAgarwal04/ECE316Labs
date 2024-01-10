@@ -10,16 +10,21 @@ BCD display has outputs A-G and works as illustrated below: <br>
 ![image](https://github.com/AAgarwal04/FPGALabs/assets/121470779/fc8d4b35-94a4-4a61-83c0-da22ff150669)<br>
 <sub>Illustration provided by Dr. Jaydeep Kulkarni.</sub><br>
 
-The stopwatch implemented 4 different modes. <br>
+The stopwatch implemented 4 different modes: <br>
+* Mode 1: Timer from 00.00 to 99.99 <br>
+* Mode 2: Timer from 8-bit initial value (loaded onto the display in decimal) to 99.99. <br>
+* Mode 3: Timer from 99.99 to 00.00. <br>
+* Mode 4: Timer from 99.99 to an 8-bit final value. <br>
 
-The digit that was to be displayed was a decimal digit. <br>
-Since a 4-bit input was being used, and value above **9** was designed to turn the display off.
+Switches would be used to determine the 8-bit values for Mode 2 and Mode 4. The switches would be inert for Modes 1 and 3. <br>
+A reset button is present to bring the display segment back to the original initial value. This is dependant on the mode. <br>
+The modes switch using separate board switches that are different from the switches used to load the initial value. <br>
+A singular button is used as the start/stop button to perform the functions of a stopwatch.
 
-The following truth table was used to design the logic for the lab: <br>
+The following HLSM was used to develop the structure of the code: <br>
 
-![image](https://github.com/AAgarwal04/FPGALabs/assets/121470779/55554de9-2a45-4ce2-a9b1-6bf0ccbb1c18) <br>
-**S3, S2, S1, S0 correspond to switches.** <br>
-**A-G correspond to the display outputs.** <br>
-**a0 corresponds to an0 on the display output.**
+<img width="632" alt="image" src="https://github.com/AAgarwal04/FPGALabs/assets/121470779/1b099bf7-1035-456b-a0dd-0a00b35965f4"> <br>
+
+The project utilizes aspects of previous labs, including the hex-to-7segment display used for the BCD-to-7Segment Lab as well as the clock divider used in 
 
 Designed BCD-to-7segment decoder on Basys FPGA using Verliog to simulate counting.
