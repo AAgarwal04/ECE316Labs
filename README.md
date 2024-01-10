@@ -25,6 +25,5 @@ The following HLSM was used to develop the structure of the code: <br>
 
 <img width="632" alt="image" src="https://github.com/AAgarwal04/FPGALabs/assets/121470779/1b099bf7-1035-456b-a0dd-0a00b35965f4"> <br>
 
-The project utilizes aspects of previous labs, including the hex-to-7segment display used for the BCD-to-7Segment Lab as well as the clock divider used in 
-
-Designed BCD-to-7segment decoder on Basys FPGA using Verliog to simulate counting.
+The project utilizes aspects of previous labs, including the hex-to-7segment display used for the BCD-to-7Segment Lab as well as the clock divider used in the Time Multiplexing Lab. <br>
+The Modes.v files contains the code necessary for switching between modes and implements the stopwatch functionality. <br>
